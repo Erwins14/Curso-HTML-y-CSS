@@ -1,0 +1,52 @@
+/*Estilos para Colores*/
+.colores {
+    color: orangered;
+    font-size: 25pt;
+}
+
+.color-hexa1 {
+    color: #9AC4F8;
+    font-size: 22pt;
+}
+
+.color-rgb {
+    color: rgb(141, 31, 16);
+    font-size: 20pt;
+}
+
+.color-rgba {
+    color: rgba(25, 150, 22, 0.4);
+    font-size: 18pt;
+}
+
+/* FONDOS */
+
+.fondo-color {
+    background-color: aqua;
+}
+
+.fondo-imagen {
+    color: aliceblue;
+    background-image: url("https://cdn.pixabay.com/photo/2017/08/30/01/05/milky-way-2695569_1280.jpg");
+    background-position: left bottom;
+}
+
+/* Tamaños */
+.ancho {
+    background-color: blueviolet;
+    width: 100px;
+}
+
+.alto {
+    background-color: chartreuse;
+    height: 200px;
+}
+
+.tarjeta {
+    border-style: solid;
+    border-color: rgb(150, 150, 150);
+    border-width: 3px;
+    /* border-top: none; */
+    padding: 10px 20px;
+    margin:  10px 20px;
+}
