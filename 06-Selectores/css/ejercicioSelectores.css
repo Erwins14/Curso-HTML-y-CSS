@@ -1,0 +1,22 @@
+.boton {
+    width: 300px;
+    height: 100px;
+    font-size: 30px;
+    border-radius: 10px;
+    border-color: black;
+}
+
+/* Pseudo-elemento*/
+.boton::before{
+    content: 'Pasa por encima';
+}
+
+/* Pseudo-clase*/
+.boton:hover{
+    background-color: green;
+    color: white;
+}
+
+.boton:hover.boton::before{
+    content: '¡Hecho!';
+}
