@@ -1,0 +1,12 @@
+
+.row div {
+    /* margin: 0.25rem; */
+    background-color: aqua;
+}
+
+/* Medidas Viewports */
+/* XS (Extra Small): Hasta 575.98px de ancho. */
+/* SM (Small): De 576px a 767.98px de ancho. */
+/* MD (Medium): De 768px a 991.98px de ancho. */
+/* LG (Large): De 992px a 1199.98px de ancho. */
+/* XL (Extra Large): De 1199.98px de ancho en adelante. */
